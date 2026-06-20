@@ -208,21 +208,4 @@ Evaluation
 - Feature Selection
 - Streamlit Deployment
 
----
-
-## 👩‍💻 Author
-
-**Aradhya**
-
-B.Tech Electronics Engineering  
-Madhav Institute of Technology & Science (MITS), Gwalior
-
-### Skills
-
-- Python
-- SQL
-- Pandas
-- NumPy
-- Machine Learning
-- Data Analysis
-
+-
