@@ -197,15 +197,3 @@ Evaluation
 - Confusion Matrix
 - Performance Metrics
 
----
-
-## 🔮 Future Improvements
-
-- Hyperparameter Tuning
-- Cross Validation
-- Random Forest Classifier
-- XGBoost Classifier
-- Feature Selection
-- Streamlit Deployment
-
--
